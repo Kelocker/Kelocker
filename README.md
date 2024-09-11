@@ -53,7 +53,7 @@ I'm Kelvin, an aspiring developer! <br>
 </p>
 
 ## ✍️ Random Dev Quote:
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+![Quote](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
 ## 🔝 Top Contributed Repo:
 ![Top Repo](https://github-contributor-stats.vercel.app/api?username=kelocker&limit=5&theme=dark&combine_all_yearly_contributions=true)
