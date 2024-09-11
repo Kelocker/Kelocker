@@ -53,10 +53,15 @@ I'm Kelvin, an aspiring developer! <br>
 </p>
 
 ## ✍️ Random Dev Quote:
-![Quote](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
+<p align="center">
+    <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark" alt="Dev Quote" />
+</p>
 
 ## 🔝 Top Contributed Repo:
-![Top Repo](https://github-contributor-stats.vercel.app/api?username=kelocker&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+    <img src="https://github-contributor-stats.vercel.app/api?username=kelocker&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
+</p>
+
 
 ## 💰 Support Me:
 [![Ko-Fi](https://img.shields.io/badge/-Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/kelocker)
